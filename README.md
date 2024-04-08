@@ -26,6 +26,15 @@ Welcome to my mobile apps portfolio repository! This repository contains several
      - Data visualization
      - Firebase integration for backend storage
 
+4. **Authorization Application**
+   - Description: An authorization app that allows to create new user and
+   than login with same credentials. It also includes a backend connection to Firebase for data storage.
+   - Features:
+     - User creation
+     - User logging
+     - Data visualization
+     - Firebase integration for backend storage
+
 ## Installation
 
 To run these apps locally, follow these steps:
